@@ -10,7 +10,7 @@ class patte2
         if(i==0)
        {
         System.out.println("*****");
-       }
+       }                                       //just checking git
        if(i==3)
        {
         System.out.println("*****");
