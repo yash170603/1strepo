@@ -11,7 +11,7 @@
                 if(i%2!=0 && j%2!=0)
                 {
                     System.out.print("1");
-                }
+                }                               //p9
                 else{
                     System.out.print("0");
                 }
